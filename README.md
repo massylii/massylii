@@ -1,4 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/22044194/ReadMe.md)
 # 💫 About Me:
 🔐Network Security Enthusiast<br>🎓Degree In Networking and Security<br>🕸️Certified Cisco CCNA 1,2,3,4 + Security<br>👨‍🔬Currently Working On Getting The HTB CPTS Cert<br>🏳️Plays HTB THM PicoCTF Most Of The Time
 
