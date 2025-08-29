@@ -1,3 +1,8 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=IAM+ADDICTED+TO+PWNING;EAT+SLEEP+AND+CTF)](https://git.io/typing-svg)
+
+
+
 # 💫 About Me:
 🔐Network Security Enthusiast<br>🎓Degree In Networking and Security<br>🕸️Certified Cisco CCNA 1,2,3,4 + Security<br>👨‍🔬Currently Working On Getting The HTB CPTS Cert<br>🏳️Plays HTB THM PicoCTF Most Of The Time
 
