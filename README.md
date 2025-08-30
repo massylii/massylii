@@ -37,10 +37,7 @@
     </td>
     <td align="left">
     
-<div align="center">
-
 ## 💫 About Me:
-</div>
 🔐 Network Security Enthusiast<br>
 🎓 Degree In Networking and Security<br>
 🕸️ Certified Cisco CCNA 1,2,3,4 + Security<br>
