@@ -1,4 +1,17 @@
-```
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E10C&center=true&width=435&lines=IAM+ADDICTED+TO+PWNING;EAT+SLEEP+PWN+REPEAT" alt="Typing SVG" />
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td>
+<pre>
+<span style="color: #FFD700;">
+[ 
+
 :::;;::;::::::;::::::$$$&&&&$;::;:;;;;;:;:;::;;::;;;::
 :;:;:;;:::::::::::X$&$&&&&&&&&$&;:::;:;;;;;;:;:;;;:;;:
 ;:;;:;:;::::::::$&$$&&&$&&&&&&&X$$;:;;;;:::;:;;;;:;;;;
@@ -18,15 +31,23 @@
 :;:;::;:;::::::$$$$$$$$&&$&$$&$$&&&&&::;::::::::;;;:::
 ::::::::::::::::$$$&&&&&&$$$&&&&&&&$::::::::::::::;;::
 :::::::::;:::::::X$$&&&$$$$&&&$$&$:::::;::;::;;:::::::
-```
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E10C&center=true&width=435&lines=IAM+ADDICTED+TO+PWNING;EAT+SLEEP+PWN+REPEAT" alt="Typing SVG" />
-  </a>
-</p>
+
+ ]
+</span>
+</pre>
+    </td>
+    <td>
 
 # 💫 About Me:
-🔐Network Security Enthusiast<br>🎓Degree In Networking and Security<br>🕸️Certified Cisco CCNA 1,2,3,4 + Security<br>👨‍🔬Currently Working On Getting The HTB CPTS Cert<br>🏳️Plays HTB THM PicoCTF Most Of The Time
+🔐Network Security Enthusiast<br>
+🎓Degree In Networking and Security<br>
+🕸️Certified Cisco CCNA 1,2,3,4 + Security<br>
+👨‍🔬Currently Working On Getting The HTB CPTS Cert<br>
+🏳️Plays HTB THM PicoCTF Most Of The Time
+
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
