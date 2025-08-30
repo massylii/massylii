@@ -34,7 +34,8 @@
 </pre>
     </td>
     <td>
-
+<div align="center">
+  
 # 💫 About Me:
 🔐Network Security Enthusiast<br>
 🎓Degree In Networking and Security<br>
@@ -42,6 +43,7 @@
 👨‍🔬Currently Working On Getting The HTB CPTS Cert<br>
 🏳️Plays HTB THM PicoCTF Most Of The Time
 
+</div>
   </tr>
 </table>
 
