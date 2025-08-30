@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>
-<pre>
+<pre
 <span style="color: #FFD700;">
 
 :::;;::;::::::;::::::$$$&&&&$;::;:;;;;;:;:;::;;::;;;::
@@ -43,7 +43,6 @@
 👨‍🔬Currently Working On Getting The HTB CPTS Cert<br>
 🏳️Plays HTB THM PicoCTF Most Of The Time
 
-    </td>
   </tr>
 </table>
 
