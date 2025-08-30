@@ -40,5 +40,5 @@
 [![](https://visitcount.itsvg.in/api?id=massylii&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/massylii/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/massylii/svg/main/Bottom.svg" alt="Github Stats" />
 </p>
