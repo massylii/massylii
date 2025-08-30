@@ -27,6 +27,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massylii&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Massylii's Activity Graph" 
+       src="https://github-readme-activity-graph.vercel.app/graph/?username=massylii&theme=vision-friendly-dark" />
+</a>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=massylii&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4)
 
