@@ -11,8 +11,7 @@
 <table>
   <tr>
     <td>
-<pre
- style="color: #FFD700;">
+<pre><span style="color:#FFD700;">
 
 :::;;::;::::::;::::::$$$&&&&$;::;:;;;;;:;:;::;;::;;;::
 :;:;:;;:::::::::::X$&$&&&&&&&&$&;:::;:;;;;;;:;:;;;:;;:
@@ -34,11 +33,25 @@
 ::::::::::::::::$$$&&&&&&$$$&&&&&&&$::::::::::::::;;::
 :::::::::;:::::::X$$&&&$$$$&&&$$&$:::::;::;::;;:::::::
 
-</pre>
+</span></pre>
     </td>
-    <td>
+    <td align="left">
 
-#      💫 About Me:
+## 💫 About Me:
+🔐 Network Security Enthusiast<br>
+🎓 Degree In Networking and Security<br>
+🕸️ Certified Cisco CCNA 1,2,3,4 + Security<br>
+👨‍🔬 Currently Working On Getting The HTB CPTS Cert<br>
+🏳️ Plays HTB THM PicoCTF Most Of The Time
+
+</td>
+  </tr>
+</table>
+
+</div>
+
+
+#💫 About Me:
 🔐Network Security Enthusiast<br>
 🎓Degree In Networking and Security<br>
 🕸️Certified Cisco CCNA 1,2,3,4 + Security<br>
