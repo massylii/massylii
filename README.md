@@ -29,7 +29,7 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Massylii's Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph/?username=massylii&bg_color=0d1117&color=ffffff&line=ffd700&point=ffffff&hide_border=true" />
+       src="https://github-readme-activity-graph.vercel.app/graph/?username=massylii&bg_color=000000&color=ffffff&line=ffa700&point=ffffff&hide_border=true" />
 </a>
 
 
