@@ -19,8 +19,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=massylii&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true" /></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=massylii&theme=great-gatsby&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=massylii&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" /></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=massylii&theme=vision-friendly-dark&hide_border=true" /></td>
   </tr>
 </table>
 
