@@ -5,6 +5,9 @@
   </a>
 </p>
 
+
+<div align="center">
+
 <table>
   <tr>
     <td>
@@ -43,6 +46,9 @@
 🏳️Plays HTB THM PicoCTF Most Of The Time
   </tr>
 </table>
+
+</div>
+
 
 <div align="center">
   
